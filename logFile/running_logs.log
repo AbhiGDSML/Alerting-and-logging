@@ -1,0 +1,4 @@
+[2023-10-06 10:44:22,061: INFO: In main file at line no 4: testing info message]
+[2023-10-06 10:44:22,061: WARNING: In main file at line no 5: testing warn message]
+[2023-10-06 10:44:22,061: ERROR: In main file at line no 6: testing warn message]
+[2023-10-06 10:44:22,061: CRITICAL: In main file at line no 7: testing warn message]
